@@ -1,6 +1,4 @@
 # OSI
-# OSI
-
 # Network
 
 1. OSI 7계층에 대해서 설명해주세요.
